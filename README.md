@@ -28,4 +28,4 @@ Password Manager API je aplikacija za upravljanje lozinkama koja omogucava koris
 
 ## Kontakt
 
-Ako imate pitanja ili primedbe, slobodno nas kontaktirajte na [nlisanin4@gmail.com](mailto:nlisanin4@gmail.com).
+Ako imate pitanja ili primedbe, slobodno me kontaktirajte na [nlisanin4@gmail.com](mailto:nlisanin4@gmail.com).
